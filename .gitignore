@@ -1,0 +1,9 @@
+*.swp
+*.swn
+*.swo
+*.json
+build/contracts/*.json
+build
+
+node_modules
+yarn-error.log
